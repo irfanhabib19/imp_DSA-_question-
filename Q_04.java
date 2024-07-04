@@ -1,5 +1,5 @@
 package Queue_19;
-//--------------------------------------------------Implementation Queue Using Two Stack-----------------------------------------------
+//--------------------------------------------------Implementation of  Queue Using Two Stack-----------------------------------------------
 import java.util.*;
 
 public class Q_04 {
